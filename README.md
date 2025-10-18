@@ -24,7 +24,7 @@
 ---
 
 ### 📫 Connect with Me
-- 🌐 [LinkedIn](https://linkedin.com/in/ismailjobi)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/md-ismail-jobi-ullah) 
 - 💻 [GitHub](https://github.com/ismailjobi)  
 - ✉️ Email: [ullahmdismailjobi@gmail.com](mailto:ullahmdismailjobi@gmail.com)  
 
