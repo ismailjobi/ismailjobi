@@ -12,7 +12,7 @@
 - **Backend:** NestJS, Spring Boot, ASP.NET Web API  
 - **Frontend:** Next.js, HTML, CSS, Tailwind CSS  
 - **Database:** PostgreSQL, MySQL, MSSQL, Oracle  
-- **Tools:** Docker, Redis, Git, Postman  
+- **Tools:** Docker, Git, Postman  
 
 ---
 
